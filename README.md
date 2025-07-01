@@ -1,8 +1,5 @@
 # Loan-Risk-Analysis
 
-![image](https://github.com/user-attachments/assets/f1e7f8b9-dac9-4d39-a64b-ed19aabb2a88)
-
-
 An end-to-end analytics project that explores customer loans and transaction behaviors using real-world banking data. This dashboard-driven solution was developed using Power BI, Tableau, SQL, and Excel, and provides actionable insights into risk assessment, transaction trends, and branch performance.
 
 **📌 Overview**
