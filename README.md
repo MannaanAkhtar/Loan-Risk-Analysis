@@ -11,10 +11,10 @@ An end-to-end analytics project that explores customer loans and transaction beh
 
 **🛠️ Tools & Technologies**
 
-Power BI – KPI dashboards, DAX calculations, and financial insights
-Tableau – Visual exploration of transaction data and branch activity
-SQL – Querying and structuring raw data
-Excel – Data cleaning and transformation
+- Power BI – KPI dashboards, DAX calculations, and financial insights
+- Tableau – Visual exploration of transaction data and branch activity
+- SQL – Querying and structuring raw data
+- Excel – Data cleaning and transformation
 
 **📊 Key Features**
 1. Loan Risk Analysis
