@@ -17,15 +17,15 @@ An end-to-end analytics project that explores customer loans and transaction beh
 - Excel – Data cleaning and transformation
 
 **📊 Key Features**
-- **Loan Risk Analysis**
+- **Loan Risk Analysis:**
 Identify high-risk profiles (e.g., unverified accounts, Grade C borrowers)
-- **Transaction Monitoring**
+- **Transaction Monitoring:**
 Track debit vs. credit activity and flag unusual patterns
-- **Branch Performance**
+- **Branch Performance:**
 Compare net cash flow and customer engagement across branches
-- **Interactive Filters & Visuals**
+- **Interactive Filters & Visuals:**
 Custom slicers for region, loan grade, account type, and time period
-- **Multi-Platform Dashboards**
+- **Multi-Platform Dashboards:**
 Developed in both Power BI and Tableau for versatile analysis
 
 📈 Insights Extracted
